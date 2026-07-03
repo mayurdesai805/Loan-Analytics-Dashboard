@@ -2,95 +2,98 @@
 
 ## 📌 Overview
 
-An interactive **2-page Loan Analytics Dashboard** built using **Power BI**, **DAX**, and **Excel**. The dashboard provides insights into loan approvals, customer demographics, risk analysis, income distribution, and lending trends.
+This project is an interactive **Loan Analytics Dashboard** developed using **Power BI**, **DAX**, and **Microsoft Excel**. It provides insights into loan applications, approval trends, customer demographics, income distribution, and customer risk analysis through interactive dashboards.
 
 ---
 
-# 🏠 Dashboard Preview
+# 📷 Dashboard Preview
 
-## 📄 Page 1 – Executive Overview
+## 🔹 Page 1 – Executive Loan Overview
 
 ### Dashboard Overview
-![Page 1](page1-1.png)
+![Page 1](page 1 d1.png)
 
 ### KPI & Loan Analysis
-![Page 1 KPI](page1-2.png)
+![Page 1 KPI](page1 d2.png)
 
-### Customer & Loan Distribution
-![Page 1 Analysis](page1-3.png)
+### Charts & Distribution
+![Page 1 Charts](page1 d3.png)
 
 ---
 
-## 📄 Page 2 – Customer & Risk Analysis
+## 🔹 Page 2 – Customer & Risk Analysis
 
-### Risk Dashboard
-![Page 2](page2-1.png)
+### Dashboard Overview
+![Page 2](page 2 d1.png)
 
-### Customer Insights
-![Page 2 Insights](page2-2.png)
+### Customer Risk & Insights
+![Page 2 Insights](page2 d2.png)
 
 ---
 
 # 🚀 Key Features
 
-- 📌 Interactive KPI Cards
-- 📌 Customer Risk Analysis
-- 📌 Loan Approval & Rejection Analysis
-- 📌 Income Analysis by Age Group
-- 📌 High Interest Loan Tracking
-- 📌 Dynamic Slicers & Filters
-- 📌 Professional Dashboard Navigation
-- 📌 Interactive DAX Measures
+- 📊 Interactive 2-Page Power BI Dashboard
+- 📌 Executive Loan Overview
+- 📈 Customer & Risk Analysis
+- 📋 Dynamic KPI Cards
+- 📊 Loan Purpose Distribution
+- 💰 Income Analysis by Age Group
+- ⚠️ High-Risk Customer Identification
+- 📉 High Interest Loan Analysis
+- 🎛️ Interactive Filters & Slicers
+- 📌 DAX Measures & Calculations
 
 ---
 
-# 📈 KPIs Included
+# 📊 Dashboard KPIs
 
+### Executive Overview
 - Total Applications
 - Approved Loans
 - Rejected Loans
 - Approval Rate
-- High Risk Customers
-- High Interest Loans (>18%)
-- Average Employment Experience
+- Total Loan Amount
 - Average Income
 - Average Credit Score
+
+### Customer & Risk Analysis
+- High Risk Customers
+- Average Employment Experience
 - Average Loan % of Income
+- Rejection Rate
+- Interest Rate > 18%
 
 ---
 
-# 📊 Visualizations
-
-### Page 1
-- KPI Cards
-- Loan Status Distribution
-- Home Ownership Analysis
-- Loan Purpose Analysis
-- Gender Distribution
-- Interactive Filters
-
-### Page 2
-- Approval Rate by Loan Purpose
-- Average Income by Age Group
-- Customer Risk KPIs
-- Key Business Insights
-- Interactive Filters
-
----
-
-# 🛠 Tools Used
+# 🛠️ Tools & Technologies
 
 - Microsoft Power BI
-- Microsoft Excel
 - DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Data Visualization
+- Business Intelligence
 
 ---
 
 # 📂 Project Files
 
-- 📁 Loan_Analytics_Dashboard.pbix
-- 📁 Loan_Dataset.xlsx
-- 📷 Dashboard Screenshots
+- 📄 LOAN ANALYSIS DASHBOARD.pbix
+- 📊 loan_data (1).xlsx
+- 🖼️ Dashboard Screenshots
+
+---
+
+# 💡 Key Insights
+
+- 45,000 loan applications analyzed.
+- Approval rate stands at **22.22%**.
+- Rejection rate is **77.78%**.
+- 512 loans have an interest rate above **18%**.
+- Applicants aged **55+** have the highest average income.
+- High-risk customers identified: **4,470**.
+- Average employment experience is **5.4 years**.
+- Average loan amount equals **13.97%** of annual income.
 
 ---
 
@@ -98,4 +101,12 @@ An interactive **2-page Loan Analytics Dashboard** built using **Power BI**, **D
 
 **Mayur Desai**
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst
+
+### Skills
+- Power BI
+- SQL
+- Python
+- Excel
+- Data Visualization
+- DAX
